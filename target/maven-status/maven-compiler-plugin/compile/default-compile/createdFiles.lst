@@ -1,0 +1,7 @@
+com\mycompany\trainersbean\configuration\TrainersBeanInitializer.class
+com\mycompany\trainersbean\models\Trainer.class
+com\mycompany\trainersbean\dao\TrainerDao.class
+com\mycompany\trainersbean\models\Trainer_.class
+com\mycompany\trainersbean\controllers\TrainerController.class
+com\mycompany\trainersbean\services\TrainerService.class
+com\mycompany\trainersbean\configuration\TrainersBeanConfiguration.class
